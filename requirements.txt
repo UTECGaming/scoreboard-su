@@ -1,0 +1,7 @@
+# Ejecución de main.py
+obs-websocket-py==1.0
+websocket-client==1.9.2
+pillow==12.1.1
+
+# Solo para compilar obs.exe
+pyinstaller==6.22.3

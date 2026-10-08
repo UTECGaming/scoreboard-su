@@ -1,0 +1,12 @@
+{
+  "equipoA": "EQUIPO-ROJO",
+  "equipoB": "EQUIPO AZUL",
+  "logoA": "C:\\ruta\\a\\obs\\logos\\equiporojo.png",
+  "logoB": "C:\\ruta\\a\\obs\\logos\\equipoazul.png",
+  "puntajeA": "2",
+  "puntajeB": "1",
+  "jugadoresA": ["Jugador 1", "Jugador 2", "Jugador 3", "Jugador 4", "Jugador 5"],
+  "jugadoresB": ["Ana", "Luis", "Marta", "", ""],
+  "tamanoFuenteJugadoresA": 300,
+  "tamanoFuenteJugadoresB": 300
+}

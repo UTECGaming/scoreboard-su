@@ -1,0 +1,11 @@
+# Datos locales de cada torneo (se versionan solo los *_ejemplo.json)
+equipos.json
+torneo_datos.json
+logos/*
+!logos/.gitkeep
+
+# Entorno y compilación
+venv/
+build/
+dist/
+__pycache__/
